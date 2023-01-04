@@ -4,8 +4,6 @@
 [![gitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucax011)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/11972455726)
 
-### Sou um jovem que adora novos desafios e um deles é trabalhar com desenvolvimento de software 🎢
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucax011&show_icons=true&theme=radical)
 
