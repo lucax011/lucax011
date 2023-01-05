@@ -4,7 +4,8 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/11972455726)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucax011&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucax011&show_icons=true)
+
 
 <h1>Tecnologias que uso e estudo no meu dia a dia:<h1>
 <div style="inline-block">
