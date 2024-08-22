@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Seu Nome]!
+# 👋 Hello, I'm Lucas!
 
 [![Profile views](https://komarev.com/ghpvc/?username=lucax011&color=blue)](https://github.com/lucax011)
 
