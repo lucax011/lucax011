@@ -33,9 +33,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucax011&layout=compact&theme=tokyonight)
 
-## 🏆 Achievements
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=lucax011&theme=algolia)
 
 ## 🌱 Current Projects
 - Developing an online car rental app using Kotlin, Java, and Android Studio.
