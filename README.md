@@ -7,7 +7,7 @@
 - 🎓 Bacharelado em **Sistemas de Informação** (FIAP – 4º ano).
 - 💼 **Analista de Sistemas** no Hospital Israelita Albert Einstein.  
 - 💻 Apaixonado por tecnologia, com certificações em **Algoritmos**, **Metodologias Ágeis** e diversas linguagens.  
-- 🔧 Atualmente desenvolvendo o **LocaMenu**, uma startup focada em digitalização de cardápios com **IA + OCR**.  
+- 🔧 Atualmente desenvolvendo o **LocalMenu**, uma startup focada em digitalização de cardápios com **IA + OCR**.  
 - 📚 Sempre aprendendo novas tecnologias e explorando soluções escaláveis.  
 
 ---
@@ -44,14 +44,14 @@
 ---
 
 ## 🌱 Projetos em Andamento
-- **LocaMenu** → App para restaurantes digitalizarem seus cardápios via IA (OCR).  
+- **LocalMenu** → App para restaurantes digitalizarem seus cardápios via IA (OCR).  
 - **Car Rental App** → Aplicativo de aluguel de carros em **Kotlin + Java**.  
 - Explorando **integrações com IA, PostgreSQL e infraestrutura em contêineres**.  
 
 ---
 
 ## 📫 Como me encontrar
-- [LinkedIn](https://www.linkedin.com/in/lucas-melo-oliveira-063b0a200/)  
+- [LinkedIn](https://www.linkedin.com/in/lucasmelo-oliveira/)  
 - [Email](mailto:csdg6924@gmail.com)  
 
 ---
