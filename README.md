@@ -49,7 +49,6 @@
 | **LocalMenu** ([backend](https://github.com/lucax011/localmenu_backend) · [app B2C](https://github.com/lucax011/localmenu_frontendB2C) · [app B2B](https://github.com/lucax011/localmenu_frontendB2B) · [OCR](https://github.com/lucax011/localmenu_OCRservice)) | Cardápios digitais com importação por foto via IA + OCR | NestJS, Prisma, PostgreSQL, Expo, FastAPI |
 | [Gota Alert](https://github.com/lucax011/gotaRepo) | Mapa de alertas de enchente em São Paulo | Next.js, Tailwind, Google Maps |
 | **Urban Drive** ([Flutter](https://github.com/lucax011/urbandrive_dart) · [Kotlin](https://github.com/lucax011/UrbanDrive) · [API](https://github.com/lucax011/api-carRental)) | Aluguel de carros pelo celular | Flutter, Kotlin, Node.js, MySQL |
-| [Clube Quinze](https://github.com/lucax011/app_barberShop) | App de agendamento para barbearia | React Native, Expo, Firebase |
 | **Rosha** ([app](https://github.com/lucax011/Rosha) · [API](https://github.com/lucax011/Api_Rosha)) | Gestão eficiente de energia | Flutter, Node.js, MySQL |
 
 ---
